@@ -1,0 +1,38 @@
+DEBUG:root:2018-05-21 12:56:04 - Thread-1 - File saved: ./output/jr.jd.com
+DEBUG:root:IOError: [Errno 2] No such file or directory: './output/jr.jd.com'
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: [Errno 11004] getaddrinfo failed
+DEBUG:root:Exception: [Errno 11004] getaddrinfo failed
+DEBUG:root:2018-05-29 15:21:16 - Thread-1 - File saved: ./output/jr.jd.com
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+DEBUG:root:Exception: 503
+DEBUG:root:2018-05-29 15:25:16 - Thread-2 - File saved: ./output/jr.jd.com
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:2018-05-29 15:26:51 - Thread-1 - File saved: ./output/jr.jd.com
+DEBUG:root:Exception: 403
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
